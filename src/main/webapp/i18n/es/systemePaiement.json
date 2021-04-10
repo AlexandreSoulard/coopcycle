@@ -1,0 +1,25 @@
+{
+  "coopcycleApp": {
+    "systemePaiement": {
+      "home": {
+        "title": "Systeme Paiements",
+        "createLabel": "Crear nuevo Systeme Paiement",
+        "createOrEditLabel": "Crear o editar Systeme Paiement",
+        "notFound": "Ningún Systeme Paiements encontrado"
+      },
+      "created": "Un nuevo Systeme Paiement ha sido creado con el identificador {{ param }}",
+      "updated": "Un Systeme Paiement ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Systeme Paiement ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Systeme Paiement {{ id }}?"
+      },
+      "detail": {
+        "title": "Systeme Paiement"
+      },
+      "crediteur": "Crediteur",
+      "debiteur": "Debiteur",
+      "methode": "Methode",
+      "compte": "Compte"
+    }
+  }
+}

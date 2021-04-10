@@ -51,15 +51,12 @@ relationship OneToOne {
     Restaurant to Compte
 }
 
-relationship ManyToOne {
-    Compte to Roles
-    Course to Compte
-    Course to Compte
-}
-
 relationship OneToMany {
     Restaurant to Produit
     Restaurant to Course
+    Roles to Compte
+    Compte to Course
+    Compte to Course
     Compte to Panier
     Cooperative to Restaurant
 }

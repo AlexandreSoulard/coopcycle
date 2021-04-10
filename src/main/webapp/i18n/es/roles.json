@@ -1,0 +1,23 @@
+{
+  "coopcycleApp": {
+    "roles": {
+      "home": {
+        "title": "Roles",
+        "createLabel": "Crear nuevo Roles",
+        "createOrEditLabel": "Crear o editar Roles",
+        "notFound": "Ningún Roles encontrado"
+      },
+      "created": "Un nuevo Roles ha sido creado con el identificador {{ param }}",
+      "updated": "Un Roles ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Roles ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Roles {{ id }}?"
+      },
+      "detail": {
+        "title": "Roles"
+      },
+      "role": "Role",
+      "compte": "Compte"
+    }
+  }
+}

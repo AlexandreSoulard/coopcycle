@@ -1,0 +1,32 @@
+{
+  "coopcycleApp": {
+    "compte": {
+      "home": {
+        "title": "Comptes",
+        "createLabel": "Crear nuevo Compte",
+        "createOrEditLabel": "Crear o editar Compte",
+        "notFound": "Ningún Comptes encontrado"
+      },
+      "created": "Un nuevo Compte ha sido creado con el identificador {{ param }}",
+      "updated": "Un Compte ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Compte ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Compte {{ id }}?"
+      },
+      "detail": {
+        "title": "Compte"
+      },
+      "name": "Name",
+      "surname": "Surname",
+      "age": "Age",
+      "accountid": "Accountid",
+      "adress": "Adress",
+      "role": "Role",
+      "course": "Course",
+      "panier": "Panier",
+      "restaurant": "Restaurant",
+      "roles": "Roles",
+      "systemePaiement": "Systeme Paiement"
+    }
+  }
+}
